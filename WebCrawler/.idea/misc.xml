@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Day02/Day02_WebMagic/pom.xml" />
+        <option value="$PROJECT_DIR$/Day02/Day02_Jobs/pom.xml" />
+        <option value="$PROJECT_DIR$/Day03/Day03_CronTest/pom.xml" />
+        <option value="$PROJECT_DIR$/Day03/Day03_Jobs/pom.xml" />
+        <option value="$PROJECT_DIR$/Day03/Day03_JobsSearch/pom.xml" />
+        <option value="$PROJECT_DIR$/simhash/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Day01/pom.xml" />
+        <option value="$PROJECT_DIR$/Day01_Base/pom.xml" />
+        <option value="$PROJECT_DIR$/Day01_Basess/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="jdk-1.8.0_221" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

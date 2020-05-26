@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Day01/Day01_BaseKnowledge/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Day01/Day01_JDWebCrawler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Day01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Day01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Day02/Day02_Jobs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Day02/Day02_Jobs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Day02/Day02_QuickStart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Day02/Day02_WebMagic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Day02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Day02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Day03/Day03_CronTest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Day03/Day03_JobsSearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Day03/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simhash/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simhash/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

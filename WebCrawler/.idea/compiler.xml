@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Day03_CronTest" />
+        <module name="Day02_Jobs" />
+        <module name="Day01_BaseKnowledge" />
+        <module name="Day03_JobsSearch" />
+        <module name="Day02_QuickStart" />
+        <module name="Day03_ElasticSearch" />
+        <module name="webmagic-core" />
+        <module name="Day01_JDWebCrawler" />
+        <module name="simhasher" />
+        <module name="Day02_WebMagic" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Day01" target="1.5" />
+      <module name="Day01_Base" target="8" />
+      <module name="Day01_JD" target="8" />
+      <module name="webmagic-core" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Day01_BaseKnowledge" options="" />
+      <module name="Day01_JD" options="-parameters" />
+      <module name="Day01_JDWebCrawler" options="-parameters" />
+      <module name="Day02_Jobs" options="-parameters" />
+      <module name="Day02_QuickStart" options="" />
+      <module name="Day02_WebMagic" options="" />
+      <module name="Day03" options="" />
+      <module name="Day03_CronTest" options="-parameters" />
+      <module name="Day03_JobsSearch" options="-parameters" />
+    </option>
+  </component>
+</project>
